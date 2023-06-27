@@ -1,4 +1,4 @@
-# My Certificates
+# Mis certificaciones
 
 Recopilatorio de mis certificados, reconocimientos y premios.
 
@@ -13,12 +13,23 @@ Recopilatorio de mis certificados, reconocimientos y premios.
 | Curso Profesional de Scrum | [Platzi](https://platzi.com/p/vsv.dev.soft/curso/1750-scrum/diploma/detalle/) |
 | Curso Liderazgo para Equipos de Trabajo | [Platzi](https://platzi.com/p/vsv.dev.soft/curso/1300-liderazgo-equipos/diploma/detalle/) |
 | Curso Básico de Programación en Go | [Platzi](https://platzi.com/p/vsv.dev.soft/curso/2232-programacion-golang/diploma/detalle/) |
-| 1er puesto Concurso Iberoamericano de Robótica Espacial 2022: "Caminante Lunar" | [PEU UNAM CIRE22](http://peu.unam.mx/Web%20CIRE%2022.htmlhttp://peu.unam.mx/Web%20CIRE%2022.html)|
+| 1er puesto Concurso Iberoamericano de Robótica Espacial 2022: "Caminante Lunar" | [PEU UNAM CIRE22](http://peu.unam.mx/Web%20CIRE%2022.html)|
+
+## Participaciones
+
+| Nombre | Link | Comentarios |
+|----------|----------|----------|
+| Torneo Argentino de Programacion 2021 | [Score Latam](https://scorelatam.naquadah.com.br/subbr-2021/#) | Equipo Dionis, puesto 279 regional, 25 Argentina, 5 FAMAF [CF](https://codeforces.com/gym/103388) |
+| Workshop presencial de Ciberseguridad de AWS 2023 | - | Proceso de despliegue. Herramientas para encontrar vulnerabilidades y problemas con las licencias. |
+
+<!-- ## En curso
+
+| Nombre | Link | Comentarios |
+|----------|----------|----------|
+||| -->
 
 # Perfiles
 
 - [Credly](https://www.credly.com/users/valentina-solange-vispo/badges)
 
 - [Platzi](https://platzi.com/p/vsv.dev.soft/)
- 
- 
